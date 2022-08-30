@@ -57,23 +57,21 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 ## Part A. Plan 
 
-To stage an interaction with your interactive device, think about:
-
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
-
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
-
-_Activity:_ What is happening between the actors?
-
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
-
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
-
 \*\***Describe your setting, players, activity and goals here.**\*\*
+
+_Setting:_ in the fridge in the kitchen
+
+_Players:_ the user who is trying to eat their food in rather fresh conditions
+
+_Activity:_  the user will use the controller to set a expiration time for the food that they opened and didn't finish or anything that they want to keep a track of when they put them in the fridge. The light will turn from green to yellow (or customed color) gradually as the expiration time approach, and turn red (or customed color) when the food is kept longer than it's supposed to and should be thrown out. 
+
+_Goals:_ for the user to be know whether the opened food or food that they want to keep a track of has been left in the fridge for too long in a direct way
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
 \*\***Include pictures of your storyboards here**\*\*
+
+![Storyboard](./Storyboard.png)
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
@@ -88,6 +86,7 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+It seems like it is a little annoying for the user to use a separate controller to set the timer or expiration time. It might be better if the controller is embedded in the fridge along with the light part. But on the other hand, the controller and the light could also both be not embedded in the fridge, but instead portable - on a storage box or something similar, so that the device could be used anywhere for storage purpose, and will not be limited to food that are stored in the fridge. 
 
 ## Part C. Prototype the device
 
@@ -101,6 +100,7 @@ If you run into technical issues with this tool, you can also use a light switch
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
+I think generally it works great! But, I don’t know if it is because of the school internet being slow, I sometimes can’t load the tab properly on mobile (took too long to respond), and sometimes there are lag on changing colors. 
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
